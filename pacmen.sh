@@ -2,5 +2,5 @@
 
 while :
 do
-	./pacmemory.py &
+	./pacmen.py &
 done
